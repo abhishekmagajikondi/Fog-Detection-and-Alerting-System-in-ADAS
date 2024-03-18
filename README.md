@@ -34,4 +34,4 @@ Future Enhancements:
 
 Credits:
 
-This project was developed by [Your Name/Organization]. Special thanks to the contributors for their efforts in implementing the SVM classifier, VGG16 model, and Arduino integration.
+This project was developed by [Abhishek Magajikondi]. Special thanks to the contributors for their efforts in implementing the SVM classifier, VGG16 model, and Arduino integration.
